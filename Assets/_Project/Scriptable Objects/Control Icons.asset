@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06dbaae73490fe4883224388d2f5c71, type: 3}
+  m_Name: Control Icons
+  m_EditorClassIdentifier: 
+  <Icons>k__BackingField:
+  - ControlPath: <Keyboard>/a
+    Icon: {fileID: 21300000, guid: 29858d600d516ae4cba16c88b46f2be7, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 5f2e45a9a911bc4429a4078ff376e46d, type: 3}
+  - ControlPath: <Keyboard>/d
+    Icon: {fileID: 21300000, guid: c2a170d9072bea34eb2da53abe9eaa47, type: 3}
+    PressedIcon: {fileID: 21300000, guid: b188906b82641c54c8456d2c1deb792e, type: 3}
+  - ControlPath: <Keyboard>/e
+    Icon: {fileID: 21300000, guid: 01db2a87b8dcaa34a8cd2523490e025a, type: 3}
+    PressedIcon: {fileID: 21300000, guid: fb25ce4ffffc6d240b3c1e10fa664ea1, type: 3}
+  - ControlPath: <Keyboard>/enter
+    Icon: {fileID: 21300000, guid: 0f8914780b290564782d3b89d8bb372f, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 89b6bb34d9a9d4e4999ba316caca8849, type: 3}
+  - ControlPath: <Keyboard>/escape
+    Icon: {fileID: 21300000, guid: ee28359aadcfe3c4eb52fe7682122116, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 5e6e1f08e7c8e7e4fba53716069f5d9e, type: 3}
+  - ControlPath: <Keyboard>/q
+    Icon: {fileID: 21300000, guid: 78763e612e6e7074d80d039fe03ea809, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 485d4f953313c8a44b6cea6c314efff1, type: 3}
+  - ControlPath: <Keyboard>/s
+    Icon: {fileID: 21300000, guid: 142f8e642a27cd84b910c24324407a58, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 0328997bfb049ae418fc0d84f59d2dc9, type: 3}
+  - ControlPath: <Keyboard>/w
+    Icon: {fileID: 21300000, guid: 7f359f47e8b62004e862220e11ad06fb, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 49d4a086cb2e0b14f894b66696dc51f7, type: 3}
+  - ControlPath: <Keyboard>/x
+    Icon: {fileID: 21300000, guid: 66d6babe085d95247b4896220c36dfd6, type: 3}
+    PressedIcon: {fileID: 21300000, guid: ddccdce89a6e32040b12ab758bd6f4b7, type: 3}
+  - ControlPath: <XInputController>/buttonSouth
+    Icon: {fileID: 21300000, guid: 6b94b65f3e1d9314ab3d5ba11c11e292, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 2dee422b2f7a8d741aff22fd94f79640, type: 3}
+  - ControlPath: <XInputController>/buttonEast
+    Icon: {fileID: 21300000, guid: 25827b16018b542438524e95f4aaa5a2, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 81e398ba30ca0a94bbd660634bf5289c, type: 3}
+  - ControlPath: <XInputController>/buttonWest
+    Icon: {fileID: 21300000, guid: 9ceff29541b803e48b74992d8080e4a3, type: 3}
+    PressedIcon: {fileID: 21300000, guid: e10641502eda87c4e9391e80565cd778, type: 3}
+  - ControlPath: <XInputController>/buttonNorth
+    Icon: {fileID: 21300000, guid: 3e03292f24e62e8439e11115abe21136, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 50d28417473f0e54e8174226497775e7, type: 3}
+  - ControlPath: <XInputController>/dpad/left
+    Icon: {fileID: 21300000, guid: e8781db04e5100c4cad5008caca5cfec, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 0ca01e3c235a6d9409264d54359742ff, type: 3}
+  - ControlPath: <XInputController>/dpad/down
+    Icon: {fileID: 21300000, guid: 67188aba19caf314185c9465b288fa07, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 0ca01e3c235a6d9409264d54359742ff, type: 3}
+  - ControlPath: <XInputController>/dpad/right
+    Icon: {fileID: 21300000, guid: e6114237f37ffb44e8911b89c9b7ed90, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 0ca01e3c235a6d9409264d54359742ff, type: 3}
+  - ControlPath: <XInputController>/dpad/up
+    Icon: {fileID: 21300000, guid: 6892810f892ffaf4da6b8f54caaaeb12, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 0ca01e3c235a6d9409264d54359742ff, type: 3}
+  - ControlPath: <XInputController>/leftShoulder
+    Icon: {fileID: 21300000, guid: 440b873e6dccda5469ded41fbf4446b5, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 189c2b0fd1a4d6c47ad0bbef699db69a, type: 3}
+  - ControlPath: <XInputController>/rightShoulder
+    Icon: {fileID: 21300000, guid: 15fa43a28a79b7f46974afea984054c3, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 47ac76ac21fafac4dbfa2944bc1250b7, type: 3}
+  - ControlPath: <XInputController>/rightTrigger
+    Icon: {fileID: 21300000, guid: 1603f07701a726e42a80b8b2f2474ab5, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 4b89654bfbe6c5d48b4f460755c8873b, type: 3}
+  - ControlPath: <DualShockGamepad>/buttonEast
+    Icon: {fileID: 21300000, guid: 47cf4dbe021b71e418d2c7022e899243, type: 3}
+    PressedIcon: {fileID: 21300000, guid: f7a8b8d6814b7cb4fa59cebded163fa8, type: 3}
+  - ControlPath: <DualShockGamepad>/buttonSouth
+    Icon: {fileID: 21300000, guid: 08e9b866cdb81a746b6637bc8eb14ddd, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 3410e90a300201e4e852969e4b532aed, type: 3}
+  - ControlPath: <DualShockGamepad>/buttonWest
+    Icon: {fileID: 21300000, guid: c5305b57bf550ff468c2974ef00c1df4, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 9b3aefa01c7bd6e409a4e0f1b2d28ad2, type: 3}
+  - ControlPath: <DualShockGamepad>/buttonNorth
+    Icon: {fileID: 21300000, guid: 932b9eaba1fa50344b52c517cf9bf6f8, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 515fabd18ebc6a04796635223cd86b7a, type: 3}
+  - ControlPath: <DualShockGamepad>/dpad/left
+    Icon: {fileID: 21300000, guid: 1893f57c798601e40a13bda99462a3bc, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 580aa5b6737eeea41acb6b314373837a, type: 3}
+  - ControlPath: <DualShockGamepad>/dpad/right
+    Icon: {fileID: 21300000, guid: 795b2d66985122e4c827b1c292d2f911, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 580aa5b6737eeea41acb6b314373837a, type: 3}
+  - ControlPath: <DualShockGamepad>/dpad/down
+    Icon: {fileID: 21300000, guid: c34c9a9776869ce4d81211a366574c97, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 580aa5b6737eeea41acb6b314373837a, type: 3}
+  - ControlPath: <DualShockGamepad>/dpad/up
+    Icon: {fileID: 21300000, guid: d6a4924d00ff3bb47bd871d6da458692, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 580aa5b6737eeea41acb6b314373837a, type: 3}
+  - ControlPath: <DualShockGamepad>/leftShoulder
+    Icon: {fileID: 21300000, guid: 637de5dd4add27d47880d709016d019f, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 608f194bf69656f4e9e48c995297053b, type: 3}
+  - ControlPath: <DualShockGamepad>/rightShoulder
+    Icon: {fileID: 21300000, guid: 26b58cd666495dc4ea5a5fd9549ea5fc, type: 3}
+    PressedIcon: {fileID: 21300000, guid: 7343d298de2e0a94c9ec0ea6067f9340, type: 3}
+  - ControlPath: <DualShockGamepad>/rightTrigger
+    Icon: {fileID: 21300000, guid: f8e8431d11f3a4a4d9468de0182e4901, type: 3}
+    PressedIcon: {fileID: 21300000, guid: b55cd9892dc1d2c4eaa905691fd200c7, type: 3}
+  - ControlPath: <Keyboard>/space
+    Icon: {fileID: 21300000, guid: c7a8c47f063bc884c84d41188d17a7ea, type: 3}
+    PressedIcon: {fileID: 21300000, guid: eebf9193c50641e4188a70b169424701, type: 3}
+  <KeyboardIcon>k__BackingField: {fileID: 21300000, guid: d1deedd2cf920dc40ba03078c24d6c33, type: 3}
+  <XboxControllerIcon>k__BackingField: {fileID: 21300000, guid: ec4e58b90b1b6934e8642b5534f8f189, type: 3}
+  <PlaystationControllerIcon>k__BackingField: {fileID: 21300000, guid: 0eb6990d9b9a90744a2349be95c45299, type: 3}
